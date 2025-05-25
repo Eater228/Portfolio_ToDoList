@@ -1,9 +1,26 @@
-# React TypeScript Starter Pack
+# ToDo List
 
-To use this template click `Use this template`
+Це приклад реалізації класичного ToDo List з використанням React, TypeScript та SCSS. Додаток дозволяє створювати, видаляти та фільтрувати задачі, а також взаємодіє з API для збереження даних.
 
-### Available Scripts
+## 🔗 Live Preview
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+[Переглянути проєкт онлайн](https://eater228.github.io/Portfolio_ToDoList/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## 🛠 Використані технології
+
+- **React** – побудова інтерфейсу користувача
+- **TypeScript** – типізація та покращення якості коду
+- **SCSS** – стилізація компонентів
+- **Vite** – швидкий збірник проєкту
+- **FontAwesome** – іконки
+- **Bulma** – CSS-фреймворк для стилізації
+
+## 🚀 Початок роботи
+
+Щоб запустити проєкт локально, виконайте наступні кроки:
+
+```bash
+git clone https://github.com/Eater228/Portfolio_ToDoList.git
+cd Portfolio_ToDoList
+npm install
+npm start
