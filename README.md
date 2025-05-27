@@ -1,23 +1,23 @@
 # ToDo List
 
-Це приклад реалізації класичного ToDo List з використанням React, TypeScript та SCSS. Додаток дозволяє створювати, видаляти та фільтрувати задачі, а також взаємодіє з API для збереження даних.
+This is an example implementation of a classic ToDo List using React, TypeScript, and SCSS. The app allows you to create, delete, and filter tasks, and interacts with an API to save data.
 
 ## 🔗 Live Preview
 
-[Переглянути проєкт онлайн](https://eater228.github.io/Portfolio_ToDoList/)
+[View the project online](https://eater228.github.io/Portfolio_ToDoList/)
 
-## 🛠 Використані технології
+## 🛠 Technologies Used
 
-- **React** – побудова інтерфейсу користувача
-- **TypeScript** – типізація та покращення якості коду
-- **SCSS** – стилізація компонентів
-- **Vite** – швидкий збірник проєкту
-- **FontAwesome** – іконки
-- **Bulma** – CSS-фреймворк для стилізації
+- **React** – for building the user interface
+- **TypeScript** – for typing and improving code quality
+- **SCSS** – for styling components
+- **Vite** – fast build tool
+- **FontAwesome** – icons
+- **Bulma** – CSS framework for styling
 
-## 🚀 Початок роботи
+## 🚀 Getting Started
 
-Щоб запустити проєкт локально, виконайте наступні кроки:
+To run the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/Eater228/Portfolio_ToDoList.git
